@@ -1,8 +1,8 @@
 name: shaded_text
-description: A new Flutter package.
+description: A new Flutter package for shaded text.
 version: 0.0.1
 author: Damon<3262663349@qq.com>
-homepage: https://
+homepage: https://github.com/ChallengeHe/ShadedText
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

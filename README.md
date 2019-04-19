@@ -1,6 +1,6 @@
 # shaded_text
 
-A new Flutter package.
+A new Flutter package for shaded text.
 
 ## Getting Started
 
